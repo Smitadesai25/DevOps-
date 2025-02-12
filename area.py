@@ -9,7 +9,7 @@ class Rectangle:
         return self.length * self.width
 
 # Example usage:
-rectangle_instance = Rectangle(8,8)
+rectangle_instance = Rectangle(3,8)
 result = rectangle_instance.calculate_area()
 
 print(f"Area of Rectangle: {result}")
